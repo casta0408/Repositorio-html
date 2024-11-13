@@ -1,3 +1,13 @@
-.{
-  background-color: aqua;  
+*{
+    scroll-behavior: smooth;
+
+}
+a{
+    padding: 25px;
+
+} 
+#image{
+    height: 300px;
+    width: 600px;
+    margin-left: 300px;
 }
